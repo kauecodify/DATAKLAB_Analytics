@@ -1,6 +1,6 @@
 # DataKLab - Analytics Platform
 
-![](op.png)
+<img width="1353" height="760" alt="image" src="https://github.com/user-attachments/assets/cfd555d0-f313-431c-a129-e1fe150b6609" />
 
 A DataKLAB Analytics Platform é uma aplicação desktop desenvolvida em Python para análise de dados e machine learning. Ela oferece uma interface gráfica intuitiva para carregar, visualizar, analisar e modelar dados de diversos formatos.
 
